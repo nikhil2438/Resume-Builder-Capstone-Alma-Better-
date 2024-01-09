@@ -108,4 +108,4 @@ __Redux__
 https://resume-builder-reactapp.netlify.app/
 
 # $ video link $
-
+https://youtu.be/XF8nH6q-omM?si=kCQSfJd-ashnbvw0
